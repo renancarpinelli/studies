@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Aula6Exercicio1</string>
+
+    <string-array name="tempo">
+        <item>ms</item>
+        <item>seg</item>
+        <item>min</item>
+        <item>hora</item>
+        <item>dia</item>
+    </string-array>
+
+    <string-array name="volume">
+        <item>L</item>
+        <item>Cm³</item>
+        <item>Dm³</item>
+        <item>M³</item>
+        <item>In³</item>
+    </string-array>
+
+    <string-array name="peso">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>lb</item>
+        <item>oz</item>
+    </string-array>
+
+    <string-array name="area">
+        <item>cm³</item>
+        <item>dm³</item>
+        <item>m²</item>
+        <item>in²</item>
+        <item>ft²</item>
+    </string-array>
+
+    <string-array name="comprimento">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+
+    <string-array name="temperatura">
+        <item>°C</item>
+        <item>°F</item>
+        <item>K</item>
+    </string-array>
+</resources>

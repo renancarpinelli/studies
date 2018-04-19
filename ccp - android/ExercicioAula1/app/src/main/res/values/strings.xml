@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Exercicio Aula1</string>
+    <string name="name" translatable="false">Alan Turing</string>
+    <string name="name2" translatable="false">Donald Knuth</string>
+    <string name="text1">Alan Mathison Turing OBE (23 de junho de 1912 — 7 de junho de 1954) foi um matemático, lógico, criptoanalista e cientista da computação britânico. Foi influente no desenvolvimento da ciência da computação e na formalização do conceito de algoritmo e computação com a máquina de Turing, desempenhando um papel importante na criação do computador moderno.[1][2][3] Ele também é pioneiro na inteligência artificial e na ciência da computação.[4] É conhecido como o pai da computação.
+
+Durante a Segunda Guerra Mundial, Turing trabalhou para a inteligência britânica em Bletchley Park, num centro especializado em quebra de códigos. Por um tempo ele foi chefe do Hut 8, a seção responsável pela criptoanálise da frota naval alemã. Planejou uma série de técnicas para quebrar os códigos alemães, incluindo o método da bomba eletromecânica, uma máquina eletromecânica que poderia encontrar definições para a máquina Enigma.
+
+Após a guerra, trabalhou no Laboratório Nacional de Física do Reino Unido, onde criou um dos primeiros projetos para um computador com um programa armazenado, o ACE. Posteriormente, Turing se interessou pela química. Escreveu um artigo sobre a base química da morfogênese[5] e previu reações químicas oscilantes como a Reação de Belousov-Zhabotinsky, que foram observadas pela primeira vez na década de 1960.</string>
+    <string name="text2">Donald Ervin Knuth (Milwaukee, 10 de janeiro de 1938) é um cientista computacional de renome e professor emérito da Universidade de Stanford. É o autor do livro The Art of Computer Programming, uma das principais referências da ciência da computação. Ele praticamente criou o campo de análise de algoritmos e fez muitas das principais contribuições a vários ramos da teoria da computação. Ele também criou o sistema tipográfico TEX, o sistema de criação de fontes METAFONT, além de ser pioneiro do conceito de programação literária. Finalmente, desenvolveu o conceito de número surreal. </string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#70c43d"
+        android:padding="10dp"
+        android:text="Lamborghini"
+        android:textAlignment="center"
+        android:textColor="#fff"
+        android:textSize="20pt"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="350dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/lamborghini" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FF8E8E8E"
+        android:padding="10dp"
+        android:text="Aventor"
+        android:textAlignment="center"
+        android:textColor="#ba0309"
+        android:textSize="10pt" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:background="#FF8E8E8E"
+        android:padding="10dp"
+        android:text="$ 434.000"
+        android:textAlignment="center"
+        android:textColor="#ba0309"
+        android:textSize="10pt" />
+
+</LinearLayout>

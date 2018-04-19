@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aula7Exercicio1</string>
+    <string name="title_activity_cadastrar">Cadastrar</string>
+    <string name="title_activity_alterar">Alterar</string>
+    <string name="title_activity_apagar">Apagar</string>
+    <string name="title_activity_listar_todos">ListarTodos</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="nome">Nome:</string>
+    <string name="rgm">Rgm:</string>
+    <string name="nota_parcial">Nota :</string>
+    <string name="trabalhos">Trabalhos:</string>
+    <string name="nota_rg">Nota PRI:</string>
+    <string name="gravar">Gravar</string>
+</resources>

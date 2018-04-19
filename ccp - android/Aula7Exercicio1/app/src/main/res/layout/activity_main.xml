@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ccp.noite.aula7exercicio1.MainActivity">
+
+
+    <Button
+        android:id="@+id/btnCad"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableStart="@drawable/data_add"
+        android:text="Cadastrar" />
+
+
+    <Button
+        android:id="@+id/btnCons"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableStart="@drawable/data_find"
+        android:text="Consultar" />
+
+
+    <Button
+        android:id="@+id/btnAlt"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableStart="@drawable/data_edit"
+        android:text="Alterar" />
+
+
+    <Button
+        android:id="@+id/btnApagar"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableStart="@drawable/data_delete"
+        android:text="Deletar" />
+
+
+    <Button
+        android:id="@+id/btnList"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableStart="@drawable/tables"
+        android:text="Listar Todos" />
+
+
+    <Button
+        android:id="@+id/btnSobre"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:drawableStart="@drawable/user"
+        android:text="Sobre" />
+
+
+</LinearLayout>
